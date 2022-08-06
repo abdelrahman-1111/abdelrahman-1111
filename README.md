@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm Abdelrahman</h1>
 <h3 align="center">A reliable DevOps Engineer</h3>
-- 📫 How to reach me **eng.abdelrahman,mostafa.ali@gmail,com**
+
+- 📫 How to reach me **eng.abdelrahman.mostafa.ali@gmail.com**
+
+- ⚡ Fun fact **I stole this template**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/abdelrahman-mostafa1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdelrahman-mostafa1111" height="30" width="40" /></a>
